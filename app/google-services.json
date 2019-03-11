@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "963721691318",
+    "firebase_url": "https://nmttranslator-a72f3.firebaseio.com",
+    "project_id": "nmttranslator-a72f3",
+    "storage_bucket": "nmttranslator-a72f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963721691318:android:2792ea2a2ce81736",
+        "android_client_info": {
+          "package_name": "www.example.com.nmttranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963721691318-je0g2s0l69781hdpl5ioi7amhmsgt844.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.example.com.nmttranslator",
+            "certificate_hash": "b1062544e6678335366ced43e8f66dee1df16b03"
+          }
+        },
+        {
+          "client_id": "963721691318-5q3p1p5apmn74uki44u1j8ja7tuklpbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANY75MAFWBRV2YsLMgjIQkxxZwGpkw_Hw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963721691318-5q3p1p5apmn74uki44u1j8ja7tuklpbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
